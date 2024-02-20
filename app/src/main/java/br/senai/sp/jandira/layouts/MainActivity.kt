@@ -94,7 +94,7 @@ fun TesteColumn() {
                 letterSpacing = 25.sp
             )
             Image(painter = painterResource(id = R.drawable.login_icon) , contentDescription = "Logotipo da Aplicação",
-                modifier = Modifier.size(height = 70.dp, width = 70.dp)
+                modifier = Modifier.size(height = 60.dp, width = 60.dp)
             )
 
             Card(
